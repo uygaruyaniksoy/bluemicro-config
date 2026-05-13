@@ -4,7 +4,7 @@
 
 #define MATRIX_ROWS 10
 #define MATRIX_COLS 7
-#define MATRIX_ROW_PINS { 22, 8, 2, 20, 6, 31, 29, 24, 47, 45 }
+#define MATRIX_ROW_PINS { 2, 31, 22, 20, 45, 8, 29, 24, 47, 6 }
 #define MATRIX_COL_PINS { 32, 11, 36, 38, 9, 10, 43 }
 
 #define ARDUINO_NICE_NANO 1
