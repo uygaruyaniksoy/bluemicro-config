@@ -1,7 +1,7 @@
 #include "hardware_config.h"
 
 #define KEYBOARD_SIDE SINGLE
-#define DEVICE_NAME_M    "My70Key"
+#define DEVICE_NAME_M    "rofl"
 #define DEVICE_MODEL     "My70Key_v1"
 #define MANUFACTURER_NAME "custom"
 
